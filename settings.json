@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "solocloud.host",
-    "port": 25565,
+    "ip": "totamsmp.pixelforge.gg",
+    "port": 91.197.55.210:26468,
     "version": "1.20.1",
     "try-creative": false
   },
